@@ -1,0 +1,5 @@
+{
+  "name": "Nervous System Check-in",
+  "description": "Una aplicación amigable para identificar y regular el estado del sistema nervioso basada en la teoría polivagal.",
+  "requestFramePermissions": []
+}
